@@ -15,7 +15,7 @@ export default function Home({ onNavigate, progress }) {
 
       <div className="hero-stats">
         <div className="hero-stat">
-          <div className="hero-stat-value">3</div>
+          <div className="hero-stat-value">4</div>
           <div className="hero-stat-label">Метода</div>
         </div>
         <div className="hero-stat">
